@@ -10,9 +10,9 @@ I focus on building resilient, scalable, and intelligent cloud infrastructures. 
 | Pillar | Project | Key Focus |
 | :--- | :--- | :--- |
 | 🏗️ **Cloud-Architecture-Evolution** | [**Cloud Architecture**]https://github.com/Echolyy-dreamer/Cloud-Architecture-Evolution/blob/main/Project-1-LAMP-Migration | End-to-end evolution of a traditional LAMP stack into a scalable, highly available AWS cloud-native architecture. |
+| 🧠 **AI/Ops** | [**Bedrock AgentCore Audit**]https://github.com/Echolyy-dreamer/BedrockAgentCore/tree/main | Addressing logic drift and hallucinated certainty in Multi-Agent Systems (MAS). |
 | 🌐 **Networking** | [**Hybrid Cloud S2S VPN**]https://github.com/Echolyy-dreamer/aws-networking-lab | BGP, Accelerated Site-to-Site, High Availability & Performance. |
 | 📦 **Compute** | [**EKS Production Ready**]https://github.com/Echolyy-dreamer/EkS | Scalable Kubernetes orchestration, IAM OIDC, and Node Group optimization. |
-| 🧠 **AI/Ops** | [**Bedrock AgentCore Audit**]https://github.com/Echolyy-dreamer/BedrockAgentCore/tree/main | Addressing logic drift and hallucinated certainty in Multi-Agent Systems (MAS). |
 | 💾 **Storage** | **High-Performance Benchmarks** | *[Coming Soon]* - Deep dive into S3, EBS, and FSx for AI workloads. |
 
 ---
